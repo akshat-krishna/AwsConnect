@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AwsConnect</string>
+    <string name="topic">test_topic/esp32</string>
+</resources>
